@@ -1,7 +1,9 @@
 * {
   color: purple;
 }
-
+h1 {
+  color: yellowgreen;
+}
 img {
   height: auto;
   width: 500px;
